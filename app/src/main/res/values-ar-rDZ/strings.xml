@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بطاقة طالب</string>
+    <string name="name_here">اسمك هنا</string>
+    <string name="aridnohere">رقمك الجاف هنا</string>
+    <string name="degreeprogram">برنامج شهادتك هنا</string>
+    <string name="shifthere">التحول الخاص بك هنا</string>
+</resources>

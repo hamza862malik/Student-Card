@@ -28,7 +28,7 @@
             android:layout_marginRight="65dp"
             android:layout_width="100dp"
             android:layout_height="100dp"
-            android:text="PMAS AAUR"
+            android:text="@string/main_title"
             android:textSize="35dp" />
     </RelativeLayout>
 
@@ -57,7 +57,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:text="Your name here"
+            android:text="@string/name_here"
             android:textColor="#000000"
             android:textSize="20dp"
             android:textStyle="bold" />
@@ -66,7 +66,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:text="Your Arid Number here"
+            android:text="@string/aridnohere"
             android:textColor="#000000"
             android:textSize="20dp"
             android:textStyle="bold" />
@@ -75,7 +75,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:text="Your Degree Program here"
+            android:text="@string/degreeprogram"
             android:textColor="#000000"
             android:textSize="20dp"
             android:textStyle="bold" />
@@ -84,7 +84,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:text="Your Shift here"
+            android:text="@string/shifthere"
             android:textColor="#000000"
             android:textSize="20dp"
             android:textStyle="bold" />
@@ -97,7 +97,7 @@
         android:textAlignment="center"
         android:textColor="#026056"
         android:textSize="25dp"
-        android:text="UIIT"
+        android:text="@string/uiit"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="10dp"/>

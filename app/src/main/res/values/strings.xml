@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Student Card</string>
+    <string name="main_title" translatable="false">PMAS UAAR</string>
+    <string name="name_here">Your name here</string>
+    <string name="aridnohere">Your Arid Number here</string>
+    <string name="degreeprogram">Your Degree Program here</string>
+    <string name="shifthere">Your Shift here</string>
+    <string name="uiit" translatable="false">UIIT</string>
 </resources>

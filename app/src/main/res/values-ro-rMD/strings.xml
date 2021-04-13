@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Card de student</string>
+    <string name="name_here">Numele tau aici</string>
+    <string name="aridnohere">Numărul tău arid aici</string>
+    <string name="degreeprogram">Programul dvs. de studii aici</string>
+    <string name="shifthere">Schimbul tău aici</string>
+</resources>

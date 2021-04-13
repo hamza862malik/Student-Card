@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name_here">توهان جو نالو هتي</string>
+    <string name="aridnohere">هتي توهان جو ايرڊ نمبر</string>
+    <string name="degreeprogram">توهان جي ڊگري پروگرام هتي</string>
+    <string name="shifthere">توهان جي شفٽ هتي</string>
+    <string name="app_name">شاگردن جو ڪارڊ</string>
+</resources>

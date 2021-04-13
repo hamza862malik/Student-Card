@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Студенческий билет</string>
+    <string name="name_here">Ваше имя здесь</string>
+    <string name="aridnohere">Ваш засушливый номер здесь</string>
+    <string name="degreeprogram">Ваша смена здесь</string>
+    <string name="shifthere">Ваша смена здесь</string>
+</resources>
